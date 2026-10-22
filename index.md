@@ -1,3 +1,3 @@
 ---
-title: Welcome to Elnaz's awesome blog!
+title: Welcome to my awesome blog!
 ---
